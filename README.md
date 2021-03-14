@@ -73,4 +73,8 @@ https://motionsystems.eu/products/
 _4DOF motion simulators_
 http://www.motion-sim.cz/new/?page=home&article=7&menu=31
 
+DISEÑO Y CONSTRUCCIÓN DE UN PROTOTIPO DE ROBOT PARALELO TIPO DELTA
+https://repository.udistrital.edu.co/bitstream/handle/11349/14191/BarcoGonzalezFranklinOlmedo2018.pdf?sequence=1
 
+Kinematics and Transmission Performance Analyses of a 2T2R Type 4-DOF Spatial Parallel Manipulator
+https://www.hindawi.com/journals/jr/2018/4750627/
