@@ -2,9 +2,9 @@
 
 
 ## Overleaf:
-  [Reunion #1](https://www.overleaf.com/3732664814scxfrpwvcdny)
+  [Enlace de edición](https://www.overleaf.com/3732664814scxfrpwvcdny)
 
-## Enlaces:
+## Readme:
 
 [Comandos del archivo .md](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -56,6 +56,14 @@ Burmester theory: https://en.wikipedia.org/wiki/Burmester%27s_theory
 https://es.wikipedia.org/wiki/Teor%C3%ADa_de_Burmester 
 
 Four-bar linkage: https://en.wikipedia.org/wiki/Four-bar_linkage 
+
+## Componentes:
+
+[Conjunto de asientos de cubo de coche](https://www.ebay.com/itm/Wingback-Sports-Car-Bucket-Seats-Set-Los-Angeles-Black-Fabric-VW-Audi-Seat-Skoda/164374772536?hash=item26457ffb38:g:xzgAAOSwGLZgMkCS)
+
+[Asientos de cubo negro Kit de Montaje Lateral](https://www.ebay.com/itm/Black-Bucket-Seats-Side-Mounted-Kit-for-OMP-Cobra-Sabelt-Corbeau-new/333565735586?_trkparms=aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D231488%26meid%3D56d038eb639b4b05b5cb4aaa3658f517%26pid%3D101195%26rk%3D6%26rkt%3D12%26mehot%3Dpf%26sd%3D164374772536%26itm%3D333565735586%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv9PairwiseUnbiasedWebDarwoV3%26brand%3DUnbranded&_trksid=p2047675.c101195.m1851)
+
+[Productos electrónicos](https://www.robotdigg.com/product/949/Electric-Servo-Cylinder-3DOF-or-6DOF-Motion-Platform-Simulator)
 
 ## Estudios:
 
@@ -109,3 +117,7 @@ https://repository.udistrital.edu.co/bitstream/handle/11349/14191/BarcoGonzalezF
 
 Kinematics and Transmission Performance Analyses of a 2T2R Type 4-DOF Spatial Parallel Manipulator
 https://www.hindawi.com/journals/jr/2018/4750627/
+
+InMotion Simulation
+https://www.inmotionsimulation.com/
+https://www.youtube.com/watch?v=ENqpDonEiM8
