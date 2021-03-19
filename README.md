@@ -11,18 +11,18 @@
 ## Entregables:
 
 1. Memoria o informe de diseño mecánico que contiene:
-⋅⋅1. Definición de formas, tamaño y principio de funcionamiento.
-⋅⋅2. Definición de componentes.
-⋅⋅3. Diseño mecánico de detalle de piezas no normalizadas y carcasa, manufactura y acabados.
-⋅⋅4. Diseño por selección de partes mecánicas normalizadas y subsistemas
+    1. Definición de formas, tamaño y principio de funcionamiento.
+    2. Definición de componentes.
+    3. Diseño mecánico de detalle de piezas no normalizadas y carcasa, manufactura y acabados. 
+    4. Diseño por selección de partes mecánicas normalizadas y subsistemas
 como cadenas, correas, poleas, tornillos, reductores de velocidad con
 sus memorias de cálculo.
 2. Memoria o informe de diseño eléctrico y electrónico que contiene:
-⋅⋅1. Selección del sistema de alimentación de energía y elementos de seguridad.
-⋅⋅2. Selección de motores, drives y hardware de control.
-⋅⋅3. Diagrama de bloques con la estructura sistemática y funcional del componente eléctrico y electrónico.
-⋅⋅4. Modelo de montaje en CAD de tablero de control, componentes eléctricos y electrónicos y cableado.
-⋅⋅5. Diagrama esquemático eléctrico y/o electrónico. Diagrama de fuerza y
+    1. Selección del sistema de alimentación de energía y elementos de seguridad.
+    2. Selección de motores, drives y hardware de control.
+    3. Diagrama de bloques con la estructura sistemática y funcional del componente eléctrico y electrónico.
+    4. Modelo de montaje en CAD de tablero de control, componentes eléctricos y electrónicos y cableado.
+    5. Diagrama esquemático eléctrico y/o electrónico. Diagrama de fuerza y
 de control.
 3. Listado de normas y recomendaciones técnicas utilizadas.
 4. Modelos CAx: FEA, CAM, CFD y otros.
