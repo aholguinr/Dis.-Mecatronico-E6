@@ -24,20 +24,24 @@
 
   Balanceo: \pm18°
 
-  0.5g-2g
+  0.5g-1g
 
 
-#### 3. Normas legales
+#### 3. ~~Normas legales~~
 
-Sara Santiago
+ASTM F2291
+E N 13814
 
-Consultar.
+#### 4. Marco de seguridad, placa superior, placa inferior
 
-#### 4. Marco de seguridad
+Javier Julian Sara
 
-Diseñar y calcular masas totales
+Configuración de vigas y barras de seguridad.
 
-Javier Julian
+Anclaje de las sillas.
+
+Análisis estático de vigas.
+
 
 
 #### 5. Definición de materiales
@@ -45,16 +49,20 @@ Javier Julian
 
 #### 6. Tensores de inercia
 
+
 #### 7. Análisis cinemático
 
+Andrés Santiago
 
+Ecuaciones de posición.
 
+Ecuaciones de velocidad.
+
+Ecuaciones de aceleración.
 
 #### 8. Análisis cinético
 
 #### 9. Reacciones de cargas y torques
-
-
 
 ## Entregables:
 
