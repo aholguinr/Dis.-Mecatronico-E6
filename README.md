@@ -3,6 +3,7 @@
 
 ## Overleaf:
   [Enlace de edición](https://www.overleaf.com/3732664814scxfrpwvcdny)
+  [Enlace de lectura](https://www.overleaf.com/read/pxsyhxwprwfc)
 
 ## Readme:
 
@@ -89,8 +90,6 @@ subconjuntos y conjuntos.
 ##  INTRODUCCIÓN
 El proyecto de curso es una actividad realizada por cada equipo de trabajo cuyo objetivo es aplicar las herramientas de diseño estudiadas en el curso en un diseño conceptual
 y de detalle de un dispositivo con las especificaciones indicadas.
-
-
 
 
 
