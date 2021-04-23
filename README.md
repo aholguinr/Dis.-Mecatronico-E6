@@ -17,13 +17,13 @@
 
 #### 2. Rangos de movimientos, tiempos y aceleraciones
 
-  Ascenso: 20cm
+  Arfada: 10cm
 
   Avance: 30cm
 
-  Cabeceo: \pm20°
+  Cabeceo: \pm18°
 
-  Balanceo: \pm18°
+  Balanceo: \pm15°
 
   0.5g-1g
 
