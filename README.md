@@ -43,9 +43,15 @@ Anclaje de las sillas.
 
 Análisis estático de vigas.
 
+Uniones permisibles de los movimientos:
+
+* Actuador lineal con placa para evitar fuerzas horizontales.
+* Biela-manivela
+* Biela-placa superior, esferica(?) universal (?), evitar fuerzas de impacto en los movimientos
 
 
 #### 5. Definición de materiales
+
 
 
 #### 6. Tensores de inercia
@@ -55,13 +61,19 @@ Análisis estático de vigas.
 
 Andrés Santiago
 
-Ecuaciones de posición.
+~~Ecuaciones de posición.~~
 
-Ecuaciones de velocidad.
+~~Ecuaciones de velocidad.~~
 
-Ecuaciones de aceleración.
+~~Ecuaciones de aceleración.~~
+
 
 #### 8. Análisis cinético
+
+Centro de masa variable.
+
+Análisis de casos extremos.
+
 
 #### 9. Reacciones de cargas y torques
 
