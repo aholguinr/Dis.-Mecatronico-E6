@@ -1,30 +1,18 @@
-﻿Study Static Analysis:1 started: 6/17/2021, 8:01:13 PM
-Number of configurations: 1
-Default mesh: 18908 elements, 9704 nodes
-Solution time 0.7s
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 6/17/2021, 8:01:30 PM
-Total time 0:00:17
-
-Study Static Analysis:1 started: 6/17/2021, 8:07:56 PM
-Number of configurations: 1
-Default mesh: 18908 elements, 9704 nodes
-Study Static Analysis:1 finished: 6/17/2021, 8:08:04 PM
-Total time 0:00:08
-
-Study Static Analysis:1 started: 6/17/2021, 8:26:41 PM
-Number of configurations: 1
-Default mesh: 18908 elements, 9704 nodes
-Solution time 0.7s
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 6/17/2021, 8:26:49 PM
-Total time 0:00:08
-
-Study Static Analysis:1 started: 6/17/2021, 9:37:05 PM
+﻿Study Static Analysis:1 started: 6/20/2021, 6:47:10 PM
 Number of configurations: 1
 Default mesh: 18908 elements, 9704 nodes
 Solution time 0.8s
 Reached the total number of h refinements 
-Study Static Analysis:1 finished: 6/17/2021, 9:37:14 PM
-Total time 0:00:09
+Study Static Analysis:1 finished: 6/20/2021, 6:47:20 PM
+Total time 0:00:10
+
+Study Static Analysis:1 started: 6/21/2021, 10:51:44 AM
+Number of configurations: 1
+Study Static Analysis:1 finished: 6/21/2021, 10:51:44 AM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 6/21/2021, 11:13:07 AM
+Number of configurations: 1
+Study Static Analysis:1 finished: 6/21/2021, 11:13:07 AM
+Total time 0:00:00
 
