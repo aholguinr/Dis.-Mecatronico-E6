@@ -1,5 +1,5 @@
                                                                                 
-ADS NASTRAN VERSION 15.0.0.187  18:35  06/20/21                                 
+ADS NASTRAN VERSION 15.0.0.187  18:22  07/07/21                                 
                                                                                 
 MAXIMUM TET ELEMENT ASPECT RATIO            =   4.60 ON ELEMENT 4383            
                                                                                 
@@ -51,5 +51,5 @@ MINIMUM SOLID ELEMENT NORMALIZED STRESS ERROR =  0.000000E+00  AT GRID 1489
 MAXIMUM DAMAGE =  0.000000E+00  AT ELEMENT 1                                    
 MINIMUM LIFE   =  1.000000E+10  AT ELEMENT 1                                    
                                                                                 
-TOTAL CPU TIME = 3.7 SECONDS                                                    
-WALLCLOCK TIME = 5.7 SECONDS                                                    
+TOTAL CPU TIME = 4.2 SECONDS                                                    
+WALLCLOCK TIME = 5.9 SECONDS                                                    

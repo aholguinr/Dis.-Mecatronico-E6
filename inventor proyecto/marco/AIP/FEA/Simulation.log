@@ -1,11 +1,33 @@
-﻿Study Static Analysis:1 started: 6/21/2021, 5:12:44 PM
+﻿Study Static Analysis:1 started: 7/7/2021, 4:43:28 PM
 Number of configurations: 1
 Default mesh: 81362 elements, 163721 nodes
 Mesh at contact 20 is too coarse
 Mesh at contact 21 is too coarse
-Solution time 14.4s
+Solution time 15s
 Convergence rate: 50%
 Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 6/21/2021, 5:13:32 PM
-Total time 0:00:48
+Study Static Analysis:1 finished: 7/7/2021, 4:43:46 PM
+Total time 0:00:18
+
+Study Static Analysis:1 started: 7/7/2021, 4:44:35 PM
+Number of configurations: 1
+Default mesh: 81362 elements, 163721 nodes
+Mesh at contact 20 is too coarse
+Mesh at contact 21 is too coarse
+Solution time 12.4s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 7/7/2021, 4:44:51 PM
+Total time 0:00:16
+
+Study Static Analysis:1 started: 7/7/2021, 6:10:51 PM
+Number of configurations: 1
+Default mesh: 81362 elements, 163721 nodes
+Mesh at contact 20 is too coarse
+Mesh at contact 21 is too coarse
+Solution time 17.4s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 7/7/2021, 6:11:13 PM
+Total time 0:00:22
 

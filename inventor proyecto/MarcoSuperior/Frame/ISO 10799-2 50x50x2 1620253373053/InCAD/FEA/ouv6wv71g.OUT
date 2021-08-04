@@ -1,5 +1,5 @@
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      1
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      1
  
  
  
@@ -74,7 +74,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      2
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      2
  
  
  
@@ -91,7 +91,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      3
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      3
  
  
  
@@ -104,9 +104,9 @@
  [FILE MANAGEMENT DIRECTIVES]
  
  DATABASE         = ouv6wv71g.NDB
- FILESIGNATURE    = MC5M017092
+ FILESIGNATURE    = G7VG013012
  FILEBUFFERSIZE   = 100
- FILESPEC         = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBMC5M017092.TMP\
+ FILESPEC         = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBG7VG013012.TMP\
  NFILEBUFFER      = 1
  PURGE            = ON
  RSLTFILEPURGE    = ON
@@ -166,7 +166,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      4
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      4
  
  
  
@@ -198,7 +198,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      5
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      5
  
  
  
@@ -216,7 +216,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      6
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      6
  
  
  
@@ -234,7 +234,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      7
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      7
  
  
  
@@ -252,7 +252,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      8
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      8
  
  
  
@@ -327,7 +327,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE      9
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE      9
  
  
  
@@ -402,7 +402,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     10
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     10
  
  
  
@@ -461,7 +461,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     11
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     11
  
  
  
@@ -479,7 +479,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     12
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     12
  
  
  
@@ -497,7 +497,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     13
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     13
  
  
  
@@ -515,7 +515,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     14
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     14
  
  
  
@@ -533,7 +533,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     15
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     15
  
  
  
@@ -564,7 +564,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     16
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     16
  
  
  
@@ -593,7 +593,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     17
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     17
  
  
  
@@ -668,7 +668,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     18
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     18
  
  
  
@@ -743,7 +743,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     19
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     19
  
  
  
@@ -818,7 +818,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     20
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     20
  
  
  
@@ -893,7 +893,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     21
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     21
  
  
  
@@ -968,7 +968,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     22
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     22
  
  
  
@@ -1043,7 +1043,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     23
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     23
  
  
  
@@ -1118,7 +1118,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     24
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     24
  
  
  
@@ -1193,7 +1193,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     25
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     25
  
  
  
@@ -1268,7 +1268,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     26
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     26
  
  
  
@@ -1343,7 +1343,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     27
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     27
  
  
  
@@ -1418,7 +1418,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     28
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     28
  
  
  
@@ -1493,7 +1493,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     29
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     29
  
  
  
@@ -1568,7 +1568,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     30
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     30
  
  
  
@@ -1643,7 +1643,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     31
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     31
  
  
  
@@ -1718,7 +1718,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     32
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     32
  
  
  
@@ -1793,7 +1793,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     33
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     33
  
  
  
@@ -1868,7 +1868,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     34
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     34
  
  
  
@@ -1943,7 +1943,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     35
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     35
  
  
  
@@ -2018,7 +2018,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     36
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     36
  
  
  
@@ -2085,7 +2085,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     37
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     37
  
  
  
@@ -2142,7 +2142,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     38
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     38
  
  
  
@@ -2163,7 +2163,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     39
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     39
  
  
  DYNAMIC AREA = 2                                                    SUBCASE 1
@@ -2185,7 +2185,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     40
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     40
  
  
  DYNAMIC AREA = 2                                                    SUBCASE 1
@@ -2206,7 +2206,7 @@
  FACTORED SPARSE MATRIX SIZE =        6282854 WORDS       95.9 MEGABYTES
  ADDITIONAL MEMORY ALLOCATED =       11550720 WORDS       88.1 MEGABYTES
  
- FACTORIZATION TIME FOR 6282854 WORDS = 0.5 SECONDS
+ FACTORIZATION TIME FOR 6282854 WORDS = 0.4 SECONDS
  
  
  
@@ -2214,7 +2214,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     41
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     41
  
  
  
@@ -2233,7 +2233,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     42
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     42
  
  
  
@@ -2252,7 +2252,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     43
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     43
  
  
  
@@ -2271,7 +2271,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     44
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     44
  
  
  
@@ -2290,7 +2290,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     45
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     45
  
  
  
@@ -2309,7 +2309,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     46
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     46
  
  
  
@@ -2328,7 +2328,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     47
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     47
  
  
  
@@ -2347,7 +2347,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     48
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     48
  
  
  
@@ -2372,11 +2372,11 @@
  FILEBUFFERSIZE2  = 100
  FILEBUFFERSIZE3  = 100
  FILEBUFFERSIZE4  = 100
- FILESIGNATURE    = MC5M017092
- FILESPEC1        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBMC5M017092.TMP\
- FILESPEC2        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBMC5M017092.TMP\
- FILESPEC3        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBMC5M017092.TMP\
- FILESPEC4        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBMC5M017092.TMP\
+ FILESIGNATURE    = G7VG013012
+ FILESPEC1        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBG7VG013012.TMP\
+ FILESPEC2        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBG7VG013012.TMP\
+ FILESPEC3        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBG7VG013012.TMP\
+ FILESPEC4        = C:\ProgramData\Autodesk\Nastran 2021\Temp\NDBG7VG013012.TMP\
  GPWEIGHTMETHOD   = VECTOR
  INCRGEOMOUT      = OFF
  INCRRSLTOUT      = OFF
@@ -2422,7 +2422,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     49
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     49
  
  
  
@@ -2464,7 +2464,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     50
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     50
  
  
  
@@ -2539,7 +2539,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     51
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     51
  
  
  
@@ -2614,7 +2614,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     52
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     52
  
  
  
@@ -2689,7 +2689,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     53
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     53
  
  
  
@@ -2764,7 +2764,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     54
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     54
  
  
  
@@ -2839,7 +2839,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     55
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     55
  
  
  
@@ -2898,7 +2898,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     56
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     56
  
  
  
@@ -2915,7 +2915,7 @@
  
  
  
-                                                                        06/20/21  18:35  ADS NASTRAN VERSION 15.0.0.187  PAGE     57
+                                                                        07/07/21  18:22  ADS NASTRAN VERSION 15.0.0.187  PAGE     57
  
  
  
@@ -2927,8 +2927,8 @@
  
  MODEL ANALYSIS TIME SUMMARY
  
- TOTAL CPU TIME = 3.7 SECONDS
- WALLCLOCK TIME = 5.7 SECONDS
+ TOTAL CPU TIME = 4.2 SECONDS
+ WALLCLOCK TIME = 5.9 SECONDS
  
  EXECUTION TERMINATED NORMALLY
  

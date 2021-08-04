@@ -1,4 +1,4 @@
-ID 50D32246-7B2C-462E-B0D5-51E547BA66BB
+ID 884494C8-196F-4BFE-A7B1-A3C055212AAE
 $ Solution Type has been set to Linear Static for Multi-Axial Fatigue analysis
 SOL LINEAR STATIC
 CEND
@@ -18,7 +18,7 @@ $ Written by : Autodesk Inventor Nastran
 $ Version    : 2021-SP0 -- Database V11
 $ Translator : Autodesk Nastran
 $ From Model : C:\Users\Santiago Suárez\Documents\GitHub\Dis.-Mecatronico-E6\inventor proyecto\MarcoSuperior\Frame\ISO 10799-2 50x50x2 1620253373053.ipt
-$ Date       : Sunday, Sun Jun 20 18:35:17 2021 
+$ Date       : Wednesday, Wed Jul  7 18:22:07 2021 
 $ ******************************************************************************************
 $ 
 PARAM,UNITS,M
