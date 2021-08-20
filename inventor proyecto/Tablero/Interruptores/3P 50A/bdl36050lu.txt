@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-21112016-071385";"";
+"REFERENCE";"BDL36050LU";"";
+"TraceParts.PartTitle";"PowerPact BD/BG/BJ 15A to 125A 3P EverLink control wire terminal circuit breaker";"";
+"TraceParts.InstanceId";"10-21112016-071385ABO5209GUNAWCPTI3HNQK6U5S";"";
+"DESIGN";"PowerPact BD 600Y/347V TM50D 3P EverLink control wire terminal circuit breaker ";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC_DISTRI:10-21112016-071385";"";
