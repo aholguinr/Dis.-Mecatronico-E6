@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"69-13072015-156224";"";
+"REFERENCE";"GSF Gr. 2 d8 B / d14 B";"";
+"TraceParts.PartTitle";"GSF : Bellow coulings";"";
+"TraceParts.InstanceId";"69-13072015-1562244Z5ARNLIOOZPX6DHHUUK7108K";"";
+"DESIGN";"GSF : Bellow coulings";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ComInTec";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"COMINTEC:69-13072015-156224";"";
