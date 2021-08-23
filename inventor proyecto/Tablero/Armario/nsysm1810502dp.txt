@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-28052009-086210";"";
+"REFERENCE";"NSYSM1810502DP";"";
+"TraceParts.PartTitle";"Compact metal enclosures Spacial SM with mounting plate";"";
+"TraceParts.InstanceId";"10-28052009-086210IH6OUMLYN3HEZGFA4RR094XI";"";
+"DESIGN";"Compact metal enclosures Spacial SM with mounting plate, 1800x1000x500, 2 door(s)";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.2.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC_DISTRI:/SCHNEIDER_DISTRI/F_SCHNEIDER_ELECTRIC_ENVEL/SCHNEIDER_ELECTRIC_ENVEL.120/SCHNEIDER_ELECTRIC_ENVEL.120.010/SCHNEIDER_ELECTRIC_ENVEL.120.010.030/SCHNEIDER_ELECTRIC_ENVEL.120.010.030.010/10-28052009-086210";"";
