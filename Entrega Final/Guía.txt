@@ -1,0 +1,5 @@
+En la carpeta CAD se encuentran ambos ensambles: Tablero y mecanismo, en carpetetas separadas.
+
+En la carpeta documentos se encuentra el informe final y el BOM de todo el proyecto.
+
+En la carpeta Planos se encucentran los pdf de todos los planos de mecanizado y eléctricos del proyecto.
